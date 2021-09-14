@@ -1,0 +1,41 @@
+.def
+{
+	background-color:black;
+	color: white;
+	margin: 50px;
+	
+	width: 250px;
+	height: 15px;
+	padding:35px;
+}
+.def1
+{
+	background-color:green;
+}
+.body{
+	background: #005AA7;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
+}
+table {
+	width: 320px;
+}
+form {
+
+	border-color: black;
+	margin: 50px;
+	border: 100px;
+}
+.btn {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	font-family: cursive;
+}
+.rst {
+	background-color: white;
+	color: black;
+	font-weight: bold;
+	font-family: cursive;
+}
